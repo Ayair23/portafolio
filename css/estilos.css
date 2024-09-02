@@ -58,6 +58,7 @@ body{
 }
 .presentacion_contenido_parrafo{
     font-size: 1.5rem;
+    text-align: justify;
     font-family: var(--fuente-montserrat);
 }
 .presentacion_contenido_parrafo a{
@@ -96,7 +97,8 @@ body{
 }
 
 .presentacion_imagen{
-    width: 50%;
+    width: 40%;
+    border-radius: 25px;
 }
 
 .footer{
